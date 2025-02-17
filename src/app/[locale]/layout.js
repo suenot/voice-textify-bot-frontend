@@ -2,7 +2,7 @@ import {notFound} from 'next/navigation';
 import {locales} from '@/navigation';
 import {inter} from '../layout';
 import Providers from './providers';
-import {getMessages} from 'next-intl/server';
+import {getMessages, setRequestLocale} from 'next-intl/server';
 
 export function generateStaticParams() {
   return locales.map((locale) => ({locale}));
@@ -10,6 +10,9 @@ export function generateStaticParams() {
 
 export default async function LocaleLayout({children, params}) {
   const {locale} = params;
+
+  // Set the locale for static rendering
+  setRequestLocale(locale);
 
   if (!locales.includes(locale)) {
     notFound();

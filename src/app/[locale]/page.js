@@ -136,8 +136,8 @@ export default function Home() {
                 
                 <div className="relative">
                   <div className="text-3xl md:text-4xl mb-8 space-y-2 text-white">
-                    <div className="font-bold">{t('pricing.conversionRate')}</div>
-                    <div className="font-bold">{t('pricing.telegramStar')}</div>
+                    <div className={`font-bold ${locale === 'ar' ? 'rtl' : ''}`}>{t('pricing.conversionRate')}</div>
+                    <div className={`font-bold ${locale === 'ar' ? 'rtl' : ''}`}>{t('pricing.telegramStar')}</div>
                   </div>
                   <p className="text-gray-300 mb-8 text-xl">
                     {t('pricing.description')}

@@ -9,12 +9,8 @@ export const metadata = {
   keywords: 'расшифровка голосовых, конвертер голоса в текст, telegram бот, безопасность, приватность',
 }
 
+export { inter }
+
 export default function RootLayout({ children }) {
-  return (
-    <html lang="ru">
-      <body className={inter.className}>
-        {children}
-      </body>
-    </html>
-  )
+  return children;
 }

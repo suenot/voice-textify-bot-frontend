@@ -1,0 +1,41 @@
+{
+  "title": "@voice_textify_bot",
+  "subtitle": "Penyelamat Pesan Suara",
+  "startButton": "Mulai Menggunakan",
+  "problemTitle": "Familiar ketika:",
+  "problems": {
+    "meeting": "💼 Dalam rapat dan perlu cepat memahami isi pesan suara yang panjang",
+    "night": "⏰ Pukul 3 pagi dan ada pesan suara keluhan 10 menit yang mengantuk",
+    "library": "🔇 Di perpustakaan atau rapat, tapi butuh isi pesan segera"
+  },
+  "solution": "Voice Textify Bot — penerjemah pribadi Anda dari pesan suara ke bahasa manusia",
+  "features": {
+    "privacy": {
+      "title": "🛡️ Nol pelacakan",
+      "content": "Audio dan teks dihapus segera setelah pemrosesan. Rahasia Anda tetap milik Anda"
+    },
+    "engine": {
+      "title": "⚙️ Mesin sendiri",
+      "content": "Bukan pembungkus API orang lain — semuanya kustom. Tidak ada kebocoran data"
+    },
+    "gift": {
+      "title": "🎁 100+100 sebagai hadiah",
+      "content": "Mulai dengan 100 transkripsi gratis + 100 lagi untuk referral"
+    }
+  },
+  "pricing": {
+    "title": "Pembayaran yang sederhana dan jelas",
+    "conversionRate": "1 transkripsi = 0.5 ★",
+    "telegramStar": "1 Telegram Star ≈ $0.01",
+    "description": "Bayar hanya untuk apa yang Anda gunakan. Tidak ada biaya tersembunyi atau langganan.",
+    "bonusEnergy": "Energi bonus untuk pengguna baru",
+    "balanceTopUp": "Isi ulang saldo dengan jumlah berapa pun",
+    "referralProgram": "Program rujukan",
+    "tryFree": "Coba gratis"
+  },
+  "footer": {
+    "referral": "Bawa teman — dapatkan +100 di saldo.",
+    "futureFeature": "Dan saya akan menambahkan ke bot fungsi untuk mengubah teriakan menjadi emoji… atau saya akan membelikannya kamus 😅",
+    "copyright": "2025 Voice Textify Bot"
+  }
+}

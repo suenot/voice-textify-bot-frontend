@@ -1,0 +1,41 @@
+{
+  "title": "@voice_textify_bot",
+  "subtitle": "ボイスメッセージの救世主",
+  "startButton": "使用開始",
+  "problemTitle": "よくある状況:",
+  "problems": {
+    "meeting": "💼 会議中に長いボイスメッセージの内容をすぐに理解する必要があるとき",
+    "night": "⏰ 午前3時に10分間の眠い不満のボイスメッセージがあるとき",
+    "library": "🔇 図書館や会議中で急いでメッセージの内容を知る必要があるとき"
+  },
+  "solution": "Voice Textify Bot — ボイスメッセージを人間の言語に翻訳するあなたの個人通訳",
+  "features": {
+    "privacy": {
+      "title": "🛡️ 追跡なし",
+      "content": "オーディオとテキストは処理後すぐに削除されます。あなたの秘密はあなたのものです"
+    },
+    "engine": {
+      "title": "⚙️ 独自のエンジン",
+      "content": "他人のAPIに対するラッパーではありません — すべてがカスタムです。データの漏洩はありません"
+    },
+    "gift": {
+      "title": "🎁 100+100 のプレゼント",
+      "content": "100回の無料転写から始めて、紹介でさらに100回"
+    }
+  },
+  "pricing": {
+    "title": "シンプルで明確な支払い",
+    "conversionRate": "1 転写 = 0.5 ★",
+    "telegramStar": "1 Telegram Star ≈ $0.01",
+    "description": "使用した分だけ支払います。隠れた料金やサブスクリプションはありません。",
+    "bonusEnergy": "新しいユーザーへのボーナスエネルギー",
+    "balanceTopUp": "任意の金額で残高をチャージ",
+    "referralProgram": "紹介プログラム",
+    "tryFree": "無料で試す"
+  },
+  "footer": {
+    "referral": "友達を連れてきて — 残高に+100を取得します。",
+    "futureFeature": "そして、叫び声を絵文字に変換する機能をボットに追加します…または辞書を買ってあげます 😅",
+    "copyright": "2025 Voice Textify Bot"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "@voice_textify_bot",
+  "subtitle": "Ovozli xabarlar qutqaruvchisi",
+  "startButton": "Foydalanishni boshlash",
+  "problemTitle": "Tanish holatlar:",
+  "problems": {
+    "meeting": "💼 Yig'ilishda bo'lib, uzoq ovozli xabar mazmunini tezda tushunishingiz kerak bo'lganda",
+    "night": "⏰ Soat 3 da, 10 daqiqalik uyquli shikoyatli ovozli xabar bor",
+    "library": "🔇 Kutubxonada yoki yig'ilishda, lekin xabar mazmunini tezda bilishingiz kerak bo'lganda"
+  },
+  "solution": "Voice Textify Bot — ovozli xabarlardan inson tiliga tarjimoningiz",
+  "features": {
+    "privacy": {
+      "title": "🛡️ Kuzatish yo'q",
+      "content": "Ovoz va matn qayta ishlashdan keyin darhol o'chiriladi. Sizning sirlaringiz sizda qoladi"
+    },
+    "engine": {
+      "title": "⚙️ O'z dvigateli",
+      "content": "Boshqalarning API ustida o'ram emas — hammasi maxsus. Ma'lumotlar sizib chiqishi yo'q"
+    },
+    "gift": {
+      "title": "🎁 100+100 sovg'a",
+      "content": "100 ta bepul transkripsiyadan boshlang + tavsiya uchun yana 100 ta"
+    }
+  },
+  "pricing": {
+    "title": "Oddiy va tushunarli to'lov",
+    "conversionRate": "1 transkriptiya = 0.5 ★",
+    "telegramStar": "1 Telegram Yulduzi ≈ $0.01",
+    "description": "Faqat foydalanilgan narsalar uchun to'lang. Yashirin to'lovlar yoki obunalar yo'q.",
+    "bonusEnergy": "Yangi foydalanuvchilar uchun bonus energiya",
+    "balanceTopUp": "Har qanday miqdorda balansni to'ldirish",
+    "referralProgram": "Tavsiya dasturi",
+    "tryFree": "Bepul sinab ko'ring"
+  },
+  "footer": {
+    "referral": "Do'st olib keling — balansga +100 oling.",
+    "futureFeature": "Va men botga baqiruvlarni emoji'ga tarjima qilish funksiyasini qo'shaman... yoki unga lug'at sotib olaman 😅",
+    "copyright": "2025 Voice Textify Bot"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "@voice_textify_bot",
+  "subtitle": "음성 메시지 구원자",
+  "startButton": "사용 시작",
+  "problemTitle": "익숙한 상황:",
+  "problems": {
+    "meeting": "💼 회의 중에 긴 음성 메시지의 내용을 빠르게 이해해야 할 때",
+    "night": "⏰ 새벽 3시에 10분짜리 졸린 불만 음성 메시지가 있을 때",
+    "library": "🔇 도서관이나 회의 중에 있지만 메시지 내용을 급히 알아야 할 때"
+  },
+  "solution": "Voice Textify Bot — 음성 메시지를 인간 언어로 번역하는 개인 번역기",
+  "features": {
+    "privacy": {
+      "title": "🛡️ 추적 없음",
+      "content": "오디오와 텍스트는 처리 후 즉시 삭제됩니다. 당신의 비밀은 당신의 것입니다"
+    },
+    "engine": {
+      "title": "⚙️ 자체 엔진",
+      "content": "타인의 API에 대한 래퍼가 아님 — 모든 것이 맞춤형입니다. 데이터 유출 없음"
+    },
+    "gift": {
+      "title": "🎁 100+100 선물",
+      "content": "100개의 무료 전사로 시작 + 추천 시 추가 100개"
+    }
+  },
+  "pricing": {
+    "title": "간단하고 명확한 결제",
+    "conversionRate": "1 전사 = 0.5 ★",
+    "telegramStar": "1 Telegram Star ≈ $0.01",
+    "description": "사용한 만큼만 결제하세요. 숨겨진 수수료나 구독 없음.",
+    "bonusEnergy": "신규 사용자에게 보너스 에너지",
+    "balanceTopUp": "어떤 금액으로든 잔액 충전",
+    "referralProgram": "추천 프로그램",
+    "tryFree": "무료로 사용해보기"
+  },
+  "footer": {
+    "referral": "친구를 데려오세요 — 잔액에 +100을 받으세요.",
+    "futureFeature": "그리고 봇에 비명을 이모티콘으로 변환하는 기능을 추가할 것입니다… 아니면 사전을 사줄 것입니다 😅",
+    "copyright": "2025 Voice Textify Bot"
+  }
+}

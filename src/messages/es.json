@@ -1,0 +1,41 @@
+{
+  "title": "@voice_textify_bot",
+  "subtitle": "Salvador de Mensajes de Voz",
+  "startButton": "Empezar a Usar",
+  "problemTitle": "Familiar cuando:",
+  "problems": {
+    "meeting": "💼 En una reunión y necesitas entender rápidamente el contenido de un mensaje de voz largo",
+    "night": "⏰ Son las 3 de la mañana y hay un mensaje de voz somnoliento de 10 minutos con quejas",
+    "library": "🔇 En la biblioteca o en una reunión, pero necesitas urgentemente el contenido del mensaje"
+  },
+  "solution": "Voice Textify Bot — tu traductor personal de mensajes de voz a lenguaje humano",
+  "features": {
+    "privacy": {
+      "title": "🛡️ Cero rastreo",
+      "content": "El audio y el texto se eliminan inmediatamente después del procesamiento. Tus secretos siguen siendo tuyos"
+    },
+    "engine": {
+      "title": "⚙️ Motor propio",
+      "content": "No es un envoltorio sobre API de terceros — todo es personalizado. Sin fugas de datos"
+    },
+    "gift": {
+      "title": "🎁 100+100 de regalo",
+      "content": "Comienza con 100 transcripciones gratuitas + 100 más por referido"
+    }
+  },
+  "pricing": {
+    "title": "Pago simple y claro",
+    "conversionRate": "1 transcripción = 0.5 ★",
+    "telegramStar": "1 Telegram Star ≈ $0.01",
+    "description": "Pague solo por lo que usa. Sin tarifas ocultas ni suscripciones.",
+    "bonusEnergy": "Energía de bonificación para nuevos usuarios",
+    "balanceTopUp": "Recargue el saldo con cualquier cantidad",
+    "referralProgram": "Programa de referidos",
+    "tryFree": "Prueba gratis"
+  },
+  "footer": {
+    "referral": "Trae un amigo — obtén +100 en el saldo.",
+    "futureFeature": "Y agregaré al bot la función de convertir gritos en emojis… o le compraré un diccionario 😅",
+    "copyright": "2025 Voice Textify Bot"
+  }
+}

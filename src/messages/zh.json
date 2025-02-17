@@ -1,0 +1,41 @@
+{
+  "title": "@voice_textify_bot",
+  "subtitle": "语音消息救星",
+  "startButton": "开始使用",
+  "problemTitle": "是否遇到过：",
+  "problems": {
+    "meeting": "💼 在会议中需要快速理解长语音消息的内容",
+    "night": "⏰ 凌晨3点收到10分钟的带有抱怨的困倦语音",
+    "library": "🔇 在图书馆或会议中，但急需了解消息内容"
+  },
+  "solution": "Voice Textify Bot — 您的语音消息翻译助手",
+  "features": {
+    "privacy": {
+      "title": "🛡️ 零跟踪",
+      "content": "音频和文本在处理后立即删除。您的秘密始终属于您"
+    },
+    "engine": {
+      "title": "⚙️ 自有引擎",
+      "content": "不是第三方API的封装 — 完全自主开发。无数据泄露"
+    },
+    "gift": {
+      "title": "🎁 100+100 赠送",
+      "content": "从100次免费转录开始 + 推荐获得额外100次"
+    }
+  },
+  "pricing": {
+    "title": "简单明了的支付",
+    "conversionRate": "1 转录 = 0.5 ★",
+    "telegramStar": "1 Telegram 星 ≈ $0.01",
+    "description": "只需为您使用的内容付费。没有隐藏费用或订阅。",
+    "bonusEnergy": "新用户的奖励能量",
+    "balanceTopUp": "任何金额的余额充值",
+    "referralProgram": "推荐计划",
+    "tryFree": "免费试用"
+  },
+  "footer": {
+    "referral": "带来一个朋友 - 获取 +100 余额。",
+    "futureFeature": "我会在机器人中添加将尖叫转换为表情符号的功能……或者我会给他买一本词典 😅",
+    "copyright": "2025 Voice Textify Bot"
+  }
+}

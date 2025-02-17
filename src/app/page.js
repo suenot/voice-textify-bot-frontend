@@ -32,7 +32,7 @@ export default function Home() {
       <div className="relative flex flex-col items-center justify-between p-4 md:p-24 z-10">
         {/* Hero Section */}
         <div className="w-full max-w-7xl text-center mb-24">
-          <h1 className="text-4xl md:text-7xl font-bold mb-8 bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
+          <h1 className="text-4xl md:text-7xl font-bold mb-8 bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent" style={{ lineHeight: "1.3em"}}>
             @voice_textify_bot
           </h1>
           <p className="text-xl md:text-3xl mb-12 text-gray-300">

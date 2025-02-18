@@ -1,41 +1,41 @@
 {
   "title": "@voice_textify_bot",
-  "subtitle": "Voice Message Savior",
+  "subtitle": "Your Voice Message Savior",
   "startButton": "Start Using",
   "problemTitle": "Familiar when:",
   "problems": {
-    "meeting": "💼 In a meeting and need to quickly understand the content of a long voice message",
-    "night": "⏰ It's 3 AM and there's a 10-minute sleepy voice message with complaints",
+    "meeting": "💼 In a meeting and need to quickly understand a long voice message",
+    "night": "⏰ 3 AM and there's a 10-minute voice message with sleepy complaints",
     "library": "🔇 In the library or at a meeting, but urgently need the message content"
   },
   "solution": "Voice Textify Bot — your personal translator from voice messages to human language",
   "features": {
     "privacy": {
       "title": "🛡️ Zero tracking",
-      "content": "Audio and text are deleted immediately after processing. Your secrets remain yours"
+      "content": "Audio and text are deleted right after processing. Your secrets remain yours"
     },
     "engine": {
-      "title": "⚙️ Own engine",
-      "content": "Not a wrapper over someone else's API — everything is custom. No data leaks"
+      "title": "🤖 Smart Processing",
+      "content": "DeepSeek-R1 improves corrects errors and formats text"
     },
     "gift": {
       "title": "🎁 100+100 as a gift",
-      "content": "Start with 100 free transcriptions + 100 more for a referral"
+      "content": "Start with 100 free transcriptions + 100 more for referral"
     }
   },
   "pricing": {
-    "title": "Simple and Clear Payment",
+    "title": "Simple and clear payment",
     "conversionRate": "1 transcription = 0.5 ★",
-    "telegramStar": "1 Telegram Star ≈ $0.01",
-    "description": "Pay only for what you use. No hidden fees or subscriptions.",
+    "telegramStar": "1 Telegram Star ≈ $0.02",
+    "description": "Pay only for what you use. No hidden payments or subscriptions.",
     "bonusEnergy": "Bonus energy for new users",
     "balanceTopUp": "Top up balance with any amount",
     "referralProgram": "Referral program",
     "tryFree": "Try for free"
   },
   "footer": {
-    "referral": "Bring a friend — get +100 to balance.",
-    "futureFeature": "And I'll add to the bot the function of translating screams into emojis… or I'll buy him a dictionary 😅",
+    "referral": "Bring a friend — get +100 to your balance.",
+    "futureFeature": "And I'll add a feature to translate screams into emojis... or buy him a dictionary 😅",
     "copyright": "2025 Voice Textify Bot"
   }
 }
